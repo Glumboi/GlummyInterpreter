@@ -1,0 +1,1 @@
+gcc .\src\main.c .\src\vm.c -Ofast -s -o VM 
